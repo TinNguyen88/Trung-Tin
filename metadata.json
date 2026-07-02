@@ -1,6 +1,0 @@
-{
-  "name": "Ứng dụng Ngân hàng",
-  "description": "Ứng dụng mô phỏng ngân hàng số thông minh với quản lý tài khoản, lịch sử giao dịch, tiết kiệm và trợ lý tài chính AI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
